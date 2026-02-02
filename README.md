@@ -20,9 +20,9 @@ This project demonstrates personalization — a core capability for:
 - Google Forms/Sheets (user interest collection)
 ## Demo Screenshots
 See `/images`:
-- Airtable content table
-- Google Form + Sheets response
-- Recommendation output
+- Airtable content table (images/airtable_content_database.png)
+- Google Form + Sheets response (images/google_form_responses.png)
+- Recommendation output (images/ai_recommendation_output.png)
 ## Run locally
 1) Install dependencies:
 ```bash
